@@ -1,0 +1,112 @@
+{
+    "data": [
+        {
+            "offertypeid": 1,
+            "offerid": 1,
+            "description": "Buy one get one free",
+            "validfromdate": "2025-03-24",
+            "validtodate": "2025-03-30",
+            "validfromtime": "16:59:00",
+            "mapid": 1,
+            "validtotime": "16:44:00",
+            "expireflag": false,
+            "timestatus": "past"
+        },
+        {
+            "offertypeid": 3,
+            "offerid": 5,
+            "description": "5p off for every £1",
+            "validfromdate": "2025-04-08",
+            "validtodate": "2025-04-09",
+            "validfromtime": "16:07:00",
+            "mapid": 5,
+            "validtotime": "16:05:00",
+            "expireflag": false,
+            "timestatus": "past"
+        },
+        {
+            "offertypeid": 3,
+            "offerid": 6,
+            "description": "5p off for every £1",
+            "validfromdate": "2025-04-08",
+            "validtodate": "2025-04-09",
+            "validfromtime": "16:07:00",
+            "mapid": 6,
+            "validtotime": "16:05:00",
+            "expireflag": false,
+            "timestatus": "past"
+        },
+        {
+            "offertypeid": 2,
+            "offerid": 7,
+            "description": "TEST_CONNECTION_ONLY",
+            "validfromdate": "2025-04-29",
+            "validtodate": "2025-05-29",
+            "validfromtime": "00:00:00",
+            "mapid": 7,
+            "validtotime": "23:59:00",
+            "expireflag": false,
+            "timestatus": "present"
+        },
+        {
+            "offertypeid": 2,
+            "offerid": 8,
+            "description": "TEST_CONNECTION_ONLY",
+            "validfromdate": "2025-04-29",
+            "validtodate": "2025-05-29",
+            "validfromtime": "00:00:00",
+            "mapid": 8,
+            "validtotime": "23:59:00",
+            "expireflag": false,
+            "timestatus": "present"
+        },
+        {
+            "offertypeid": 2,
+            "offerid": 9,
+            "description": "TEST_CONNECTION_ONLY",
+            "validfromdate": "2025-04-29",
+            "validtodate": "2025-05-29",
+            "validfromtime": "00:00:00",
+            "mapid": 9,
+            "validtotime": "23:59:00",
+            "expireflag": false,
+            "timestatus": "present"
+        },
+        {
+            "offertypeid": 2,
+            "offerid": 10,
+            "description": "TEST_CONNECTION_ONLY",
+            "validfromdate": "2025-04-29",
+            "validtodate": "2025-05-29",
+            "validfromtime": "00:00:00",
+            "mapid": 10,
+            "validtotime": "23:59:00",
+            "expireflag": false,
+            "timestatus": "present"
+        },
+        {
+            "offertypeid": 2,
+            "offerid": 11,
+            "description": "5% Off",
+            "validfromdate": "2025-04-29",
+            "validtodate": "2025-05-30",
+            "validfromtime": "01:00:00",
+            "mapid": 11,
+            "validtotime": "23:59:00",
+            "expireflag": false,
+            "timestatus": "present"
+        },
+        {
+            "offertypeid": 2,
+            "offerid": 12,
+            "description": "TEST_CONNECTION_ONLY",
+            "validfromdate": "2025-04-29",
+            "validtodate": "2025-05-29",
+            "validfromtime": "00:00:00",
+            "mapid": 12,
+            "validtotime": "23:59:00",
+            "expireflag": false,
+            "timestatus": "present"
+        }
+    ]
+}

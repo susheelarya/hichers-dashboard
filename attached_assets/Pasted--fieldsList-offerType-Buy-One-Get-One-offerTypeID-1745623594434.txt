@@ -1,0 +1,95 @@
+{
+    "fieldsList": [
+        {
+            "offerType": "Buy One Get One",
+            "offerTypeID": 1,
+            "fields": [
+                "Offer Name",
+                "Valid From",
+                "Valid Up To",
+                "No. Items Buying",
+                "No. Items Free",
+                "Offer Information",
+                "While Stocks Last",
+                "Product Name",
+                "Offer Photo"
+            ]
+        },
+        {
+            "offerType": "Percentage Discount",
+            "offerTypeID": 2,
+            "fields": [
+                "Offer Name",
+                "Valid From",
+                "Valid Up To",
+                "% Off",
+                "Offer Information",
+                "While Stocks Last",
+                "Product Name",
+                "Offer Photo"
+            ]
+        },
+        {
+            "offerType": "Cash Discount",
+            "offerTypeID": 3,
+            "fields": [
+                "Offer Name",
+                "Valid From",
+                "Valid Up To",
+                "£ Off",
+                "Offer Information",
+                "While Stocks Last",
+                "Product Name",
+                "Offer Photo"
+            ]
+        },
+        {
+            "offerType": "Minimum Spend",
+            "offerTypeID": 4,
+            "fields": [
+                "Offer Name",
+                "Valid From",
+                "Valid Up To",
+                "£ Off",
+                "% Off",
+                "Minimum Spend",
+                "Offer Information",
+                "While Stocks Last",
+                "Product Name",
+                "Offer Photo"
+            ]
+        },
+        {
+            "offerType": "Multi Buy",
+            "offerTypeID": 5,
+            "fields": [
+                "Offer Name",
+                "Valid From",
+                "Valid Up To",
+                "£ Off",
+                "% Off",
+                "No. Items Buying",
+                "No. Items Free",
+                "Offer Information",
+                "While Stocks Last",
+                "Product Name",
+                "Offer Photo"
+            ]
+        },
+        {
+            "offerType": "Flash Sales",
+            "offerTypeID": 6,
+            "fields": [
+                "Offer Name",
+                "Valid From",
+                "Valid Up To",
+                "£ Off",
+                "% Off",
+                "While Stocks Last",
+                "Product Name",
+                "Offer Photo"
+            ]
+        }
+    ],
+    "firstTime": "2025-04-25T19:44:18.464Z"
+}
